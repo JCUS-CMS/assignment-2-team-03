@@ -1,1 +1,1 @@
-<?php shell_exec(`git pull`);
+<?php shell_exec(`sudo git pull origin master`);
