@@ -7,5 +7,9 @@
 - changes made: site dev / added login and sign-up page into navigation tabs.
 
 15/1/2019
-- committed: Nhan Tri Thong
+- committed by: Nhan Tri Thong
 - changes made: installed and activated classic editor.
+
+15/1/2019
+- committed by: Nhan Tri Thong
+- changes made: added content to home page (rough).
