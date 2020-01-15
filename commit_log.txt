@@ -1,3 +1,7 @@
 15/1/2019
 - committed by: Nhan Tri Thong.
-- changes made: site dev / added pages and navigation bars.
+- changes made: site dev / added pages and navigation tabs.
+
+15/1/2019
+- committed by: Nhan Tri Thong.
+- changes made: site dev / added login and sign-up page into navigation tabs.
