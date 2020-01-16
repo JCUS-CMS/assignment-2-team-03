@@ -13,3 +13,7 @@
 15/1/2019
 - committed by: Nhan Tri Thong
 - changes made: added content to home page (rough).
+
+16/1/2020
+- committed by: Jihun Park
+- changes made: tested changing the site identity.
