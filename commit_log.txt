@@ -17,3 +17,7 @@
 16/1/2020
 - committed by: Jihun Park
 - changes made: tested changing the site identity.
+
+17/1/2020
+- commited by: Jihun Park
+- changes made: added menus to our campus page.
