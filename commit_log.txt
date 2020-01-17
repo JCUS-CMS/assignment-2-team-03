@@ -20,8 +20,8 @@
 
 17/1/2020
 - commited by: Jihun Park
-- changes made: added menus to our campus page.
+- changes made: added menus to our camps page.
 
 17/1/2020
 - commited by: Jihun Park
-- changes made: completed all of the contents of the our campaus page.
+- changes made: completed all of the contents of the our camps page.
