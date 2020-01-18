@@ -29,3 +29,11 @@
 17/1/2020
 - commited by: Jihun Park
 - changes made: completed home page.
+
+18/1/2020
+- commited by: Lee Jungwoo
+- created log in page
+
+18/1/2020
+- commited by: Lee Jungwoo
+- created registration page
