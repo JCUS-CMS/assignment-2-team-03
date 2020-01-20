@@ -53,3 +53,7 @@
 19/1/2020
 - commited by: Le Minh
 - changes made: add post in Our Progress page
+
+19/1/2020
+- commited by: Le Minh
+- changes made: add some minor changes into the website.
