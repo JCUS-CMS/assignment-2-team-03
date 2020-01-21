@@ -1,16 +1,16 @@
-15/1/2019
+15/1/2020
 - committed by: Nhan Tri Thong.
 - changes made: site dev / added pages and navigation tabs.
 
-15/1/2019
+15/1/2020
 - committed by: Nhan Tri Thong.
 - changes made: site dev / added login and sign-up page into navigation tabs.
 
-15/1/2019
+15/1/2020
 - committed by: Nhan Tri Thong
 - changes made: installed and activated classic editor.
 
-15/1/2019
+15/1/2020
 - committed by: Nhan Tri Thong
 - changes made: added content to home page (rough).
 
@@ -19,45 +19,49 @@
 - changes made: tested changing the site identity.
 
 17/1/2020
-- commited by: Jihun Park
+- committed by: Jihun Park
 - changes made: added menus to our camps page.
 
 17/1/2020
-- commited by: Jihun Park
+- committed by: Jihun Park
 - changes made: completed all of the contents of the our camps page.
 
 17/1/2020
-- commited by: Jihun Park
+- committed by: Jihun Park
 - changes made: completed home page.
 
 18/1/2020
-- commited by: Lee Jungwoo
+- committed by: Lee Jungwoo
 - created log in page
 
 18/1/2020
-- commited by: Lee Jungwoo
+- committed by: Lee Jungwoo
 - created registration page
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add content to Our Progress page
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add content to About Us page
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add picture to About Us page
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add post in Our Progress page
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add some minor changes into the website.
 
 19/1/2020
-- commited by: Le Minh
+- committed by: Le Minh
 - changes made: add some more changes into the website.
+
+21/1/2020
+- committed by: Nhan Tri Thong
+- changes made: testing
