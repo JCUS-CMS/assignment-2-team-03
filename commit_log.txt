@@ -77,3 +77,7 @@
 22/1/2020
 - committed by: Nhan Tri Thong
 - changes made: added our progress page and navigation bar
+
+22/1/2020
+- committed by: Nhan Tri Thong
+- changes made: added our camps, login, and sign up page (rough)
