@@ -72,4 +72,8 @@
 
 22/1/2020
 - committed by: Nhan Tri Thong
-- changes made: added home and about us page to new siteground staging server
+- changes made: added home and about us page to new siteground staging server.
+
+22/1/2020
+- committed by: Nhan Tri Thong
+- changes made: added our progress page and navigation bar
