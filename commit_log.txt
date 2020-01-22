@@ -56,11 +56,11 @@
 
 19/1/2020
 - committed by: Le Minh
-- changes made: add some minor changes into the website.
+- changes made: add some minor changes into the website
 
 19/1/2020
 - committed by: Le Minh
-- changes made: add some more changes into the website.
+- changes made: add some more changes into the website
 
 21/1/2020
 - committed by: Nhan Tri Thong
@@ -81,3 +81,7 @@
 22/1/2020
 - committed by: Nhan Tri Thong
 - changes made: added our camps, login, and sign up page (rough)
+
+22/1/2020
+- committed by: Nhan Tri Thong
+- changes made: added posts
