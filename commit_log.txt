@@ -69,3 +69,7 @@
 21/1/2020
 - committed by: Nhan Tri Thong
 - changes made: tester.
+
+22/1/2020
+- committed by: Nhan Tri Thong
+- changes made: added home and about us page to new siteground staging server
